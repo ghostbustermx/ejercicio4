@@ -1,0 +1,8 @@
+C:\Users\Administrador\Downloads\mchavarriae_array_de_pilas_csharp\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Administrador\Downloads\mchavarriae_array_de_pilas_csharp\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Administrador\Downloads\mchavarriae_array_de_pilas_csharp\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\mchavarriae_array_de_pilas_csharp\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrador\Downloads\mchavarriae_array_de_pilas_csharp\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\mchavarriae_array_de_pilas_csharp\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Administrador\Downloads\mchavarriae_array_de_pilas_csharp\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Administrador\Downloads\mchavarriae_array_de_pilas_csharp\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
